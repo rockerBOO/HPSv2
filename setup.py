@@ -39,8 +39,8 @@ REQUIRED = [
     'transformers',
     'webdataset',
     'pyarrow',
-    'pytest-split==0.8.0',
-    'pytest==7.2.0',
+    'pytest-split',
+    'pytest',
     'requests',
     'clint'
 ]
